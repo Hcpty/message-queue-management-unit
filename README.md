@@ -6,7 +6,7 @@ A note about Message Queue Management Unit.
 Topic Catalog Database：
 
 ```
-Topic -> Message Queue Offset, Message Queue Connection Arguments, Weight
+Topic, Message Queue Offset, Weight, Message Queue Connection Arguments
 ```
 
 ### Credits
