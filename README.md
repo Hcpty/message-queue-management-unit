@@ -3,8 +3,10 @@ A note about Message Queue Management Unit.
 
 ### Message Queue Management Unit
 
+Topic Database:
+
 ```
-Topic, Message Queue Offset, Message Queue Connection Arguments
+Topic -> Message Queue Offset, Message Queue Connection Arguments, Weight
 ```
 
 ### Credits
