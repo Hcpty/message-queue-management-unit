@@ -3,7 +3,7 @@ A note about Message Queue Management Unit.
 
 ### Message Queue Management Unit
 
-Topic Database:
+Catalog Database:
 
 ```
 Topic -> Message Queue Offset, Message Queue Connection Arguments, Weight
